@@ -42,6 +42,6 @@ Test accuracy after removing emoticons = 0.6892
 
 Both test and training accuracies were reduced once the 5 emoticons were removed. This is due to the high weightage given to the emoticons while labeling the dataset. The emoticons are a kind of direct representation of the kind of tweet compared to individual word counts and removing them from the model training resulted in a defective model.
 
-## Notes
+Notes
 ======
 Please pip install the specific requirements.txt before running the codes for the project.
